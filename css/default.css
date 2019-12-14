@@ -1,0 +1,22 @@
+
+*
+{
+	color: #965296;
+}
+
+#chart
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 70%;
+	height: 450px;
+	background-color: white;
+}
+.chart-container {
+	position: relative;
+	width:  85%;
+	height: 300px;
+	margin: 0 auto;
+}
